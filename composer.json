@@ -21,10 +21,6 @@
     "illuminate/config": "~5.7|~5.8|^6.0|^7.0",
     "mews/pos": "^0.4.0"
   },
-  "require-dev": {
-    "orchestra/testbench": "~3.4.0|~3.5.0",
-    "phpunit/phpunit": "5.*|^7.9"
-  },
   "autoload": {
     "psr-4": {
       "Mews\\LaravelPos\\": "src/"
@@ -32,14 +28,6 @@
     "files": [
       "src/helpers.php"
     ]
-  },
-  "autoload-dev": {
-    "classmap": [
-      "tests/TestCase.php"
-    ],
-    "psr-4": {
-      "Mews\\Test\\": "tests/"
-    }
   },
   "minimum-stability": "stable",
   "repositories": [
