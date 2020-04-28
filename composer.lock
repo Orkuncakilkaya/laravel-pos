@@ -412,16 +412,16 @@
         },
         {
             "name": "mews/pos",
-            "version": "0.4.0",
+            "version": "0.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Orkuncakilkaya/pos.git",
-                "reference": "a33c15e0ab24359e8b51bbbae910891ae241ab0d"
+                "reference": "edbb30bc016f997e6c286c07daa19e371adb0056"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Orkuncakilkaya/pos/zipball/a33c15e0ab24359e8b51bbbae910891ae241ab0d",
-                "reference": "a33c15e0ab24359e8b51bbbae910891ae241ab0d",
+                "url": "https://api.github.com/repos/Orkuncakilkaya/pos/zipball/edbb30bc016f997e6c286c07daa19e371adb0056",
+                "reference": "edbb30bc016f997e6c286c07daa19e371adb0056",
                 "shasum": ""
             },
             "require": {
@@ -462,9 +462,9 @@
                 "sanal pos"
             ],
             "support": {
-                "source": "https://github.com/Orkuncakilkaya/pos/tree/0.4.0"
+                "source": "https://github.com/Orkuncakilkaya/pos/tree/0.4.1"
             },
-            "time": "2020-04-10T19:38:57+00:00"
+            "time": "2020-04-28T12:22:31+00:00"
         },
         {
             "name": "nesbot/carbon",
