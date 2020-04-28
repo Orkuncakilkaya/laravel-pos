@@ -44,6 +44,7 @@
   "minimum-stability": "stable",
   "repositories": [
     {
+      "name": "mews/pos",
       "type": "vcs",
       "url": "https://github.com/orkuncakilkaya/pos"
     }
